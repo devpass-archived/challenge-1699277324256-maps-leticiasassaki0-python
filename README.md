@@ -1,0 +1,2 @@
+## Maps Challenge
+In this challenge, you will explore the use of `map()` function in Python. Your task is to write a function `square_numbers(numbers)` that takes in a list of numbers and returns a new list with each number squared. You should use the `map()` function to achieve this.
